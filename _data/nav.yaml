@@ -1,28 +1,92 @@
 - name: Home
-  path: "#top"
+  path: home/
   section_id: home
   children:
-    - name: About
-      path: "#about"
-      section_id: about
+    - name: About us
+      path: home/about-us/
+      section_id: about-us
+    - name: Get involved
+      path: home/get-involved/
+      section_id: get-involved
 - name: Annual Meeting
-  path: "#services"
-  section_id: services
+  path: annual-meeting/
+  section_id: annual-meeting
+  children:
+    - name: HPCKP'11
+      path: annual-meeting/hpckp-11/
+      section_id: hpckp-11
+    - name: HPCKP'12
+      path: annual-meeting/hpckp-12/
+      section_id: hpckp-12
+    - name: HPCKP'14
+      path: annual-meeting/hpckp-14/
+      section_id: hpckp-14
+    - name: HPCKP'15
+      path: annual-meeting/hpckp-15/
+      section_id: hpckp-15
+    - name: HPCKP'16
+      path: annual-meeting/hpckp-16/
+      section_id: hpckp-16
+    - name: HPCKP'17
+      path: annual-meeting/hpckp-17/
+      section_id: hpckp-17
+    - name: HPCKP'18
+      path: annual-meeting/hpckp-18/
+      section_id: hpckp-18
 - name: Conference
-  path: "#work"
-  section_id: work
+  path: conference/
+  section_id: conference
+  children:
+    - name: 2017
+      path: conference/2017
+      section_id: 2017
+    - name: 2016
+      path: conference/2016
+      section_id: 2016
+    - name: 2015
+      path: conference/2015
+      section_id: 2015
+    - name: 2014
+      path: conference/2014
+      section_id: 2014
+    - name: 2012
+      path: conference/2012
+      section_id: 2012
+    - name: 2011
+      path: conference/2011
+      section_id: 2011
+    - name: 2010
+      path: conference/2010
+      section_id: 2010
+    - name: All
+      path: conference/all
+      section_id: all
 - name: Training
-  path: "#team"
-  section_id: team
+  path: training/
+  section_id: training
+  children:
+    - name: Grid Engine'12
+      path: training/grid-engine-12
+      section_id: grid-engine-12
+    - name: Slurm'15
+      path: training/slurm-15
+      section_id: slurm-15
+    - name: BeeGFS'15
+      path: training/beegfs-15
+      section_id: beegfs-15
 - name: Articles
-  path: "#pricing"
-  section_id: pricing
+  path: articles/
+  section_id: articles
+  children:
+    - name: Best Practices
+    - path: articles/best-practices
+    - section_id: best-practices
 - name: Benchmarks
-  path: "#pricing"
-  section_id: pricing
+  path: benchmarks/
+  section_id: benchmarks
 - name: Contact
-  path: "#contact"
-  section_id: contact
+  path: contact-us/
+  section_id: contact-us
 - name: Blog
   path: blog/
   section_id: blog
