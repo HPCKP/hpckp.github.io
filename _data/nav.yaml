@@ -3,29 +3,29 @@
   section_id: home
   children:
     - name: About us
-      path: home/about-us/
+      path: /about/2018/02/02/about-us.html
       section_id: about-us
     - name: Get involved
-      path: home/get-involved/
+      path: /get-involved/2018/02/02/get-involved.html
       section_id: get-involved
 - name: Annual Meeting
   path: annual-meeting/
   section_id: annual-meeting
   children:
     - name: HPCKP'11
-      path: annual-meeting/hpckp-11/
+      path: /hpckp-11/2018/02/02/hpckp-11.html
       section_id: hpckp-11
     - name: HPCKP'12
-      path: annual-meeting/hpckp-12/
+      path: /hpckp-12/2018/02/02/hpckp-12.html
       section_id: hpckp-12
     - name: HPCKP'14
-      path: annual-meeting/hpckp-14/
+      path: /hpckp-14/2018/02/02/hpckp-14.html
       section_id: hpckp-14
     - name: HPCKP'15
-      path: annual-meeting/hpckp-15/
+      path: /hpckp-15/2018/02/02/hpckp-15.html
       section_id: hpckp-15
     - name: HPCKP'16
-      path: annual-meeting/hpckp-16/
+      path: /hpckp-16/2018/02/02/hpckp-16.html
       section_id: hpckp-16
     - name: HPCKP'17
       path: annual-meeting/hpckp-17/

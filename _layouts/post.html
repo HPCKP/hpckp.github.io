@@ -13,14 +13,14 @@ layout: blog
         </div>
         <div class='content'>
           <p class='info'>
-            <span>{{page.date | date: "%B %d, %Y" }}</span>
-            /
-            <span>
+            <!--<span>{{page.date | date: "%B %d, %Y" }}</span>-->
+          <!--  / -->
+          <!--  <span>
               by
               <a href="#">{{page.author}}</a>
-            </span>
-            /
-            <span>
+            </span>-->
+         <!--   / -->
+          <!--  <span>
               In
               {% for cat in page.categories %}
                 <a href="#">{{cat}}</a>
@@ -28,21 +28,21 @@ layout: blog
                     ,
                 {% endunless %}
               {% endfor %}
-            </span>
-            /
-            <span>
+            </span> -->
+        <!--    /-->
+          <!--  <span>
               <a href="#comments">4 comments</a>
-            </span>
+            </span> -->
           </p>
           <h3><a href="{{page.url}}">{{page.title}}</a></h3>
           {{ content }}
         </div>
       </div>
       <div class='two spacing'></div>
-      <a id='comments'></a>
+     <!-- <a id='comments'></a>
       {% include comments.html %}
-      <div class='four spacing'></div>
-      <div id='comments-form'>
+      <div class='four spacing'></div> -->
+     <!-- <div id='comments-form'>
         <h3>Your comment</h3>
         <form accept-charset='UTF-8' action='#' method='post'>
           <p class='name'>
@@ -64,10 +64,10 @@ layout: blog
         </form>
       </div>
       <div class='four spacing'></div>
-    </div>
-    <div class='large-3 columns' id='sidebar'>
+    </div> -->
+   <!-- <div class='large-3 columns' id='sidebar'>
       {% include sidebar.html %}
-    </div>
+    </div>-->
   </div>
 </div>
 <div class='full no-padding' style='background: #111'>

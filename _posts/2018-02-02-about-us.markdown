@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "About Us"
+date:   2018-02-02 08:59:59
+categories: About
+tags: 
+image: 
+author: 
+---
+#### ABOUT HPCNOW!
+<p style="text-align: justify;">The use of supercomputing as a tool for solving problems in a variety of fields has grown exponentially in recent years. From its beginnings in the 80's and 90’s when the owners of the first supercomputers were mainly public entities such as universities, research centres and the military, their use in the private sector has grown significantly over recent years. Thus HPC has become a highly valuable, even indispensable tool in many important enterprises such as the defense, pharmaceutical, chemical, automotive and aerospace industries.</p>
+<p style="text-align: justify;">This is the context in which <a title="HPCNow!" href="http://www.hpcnow.com" target="_blank" rel="noopener noreferrer">HPCNow!</a> was founded by three partners with wide experience in the management of high performance computers and a thorough background in the use of scientific HPC codes. The company offers its expertise and knowledge with the aim of helping customers to get the most out of HPC technologies by providing effective and efficient supercomputer administration. <a title="HPCNow!" href="http://www.hpcnow.com">HPCNow!</a> also offers professional training and consultancy services for HPC scientists and engineers, so that they can obtain the highest level of performance and maximum security for their research.</p>
+
+
+#### HPC KNOWLEDGE PORTAL
+
+<p style="text-align: justify;">The use of supercomputing as a tool for solving problems in a variety of fields has grown exponentially in recent years. From its beginnings in the 80's and 90’s when the owners of the first supercomputers were mainly public entities such as universities, research centres and the military, their use in the private sector has grown significantly over recent years. Thus HPC has become a highly valuable, even indispensable tool in many important enterprises such as the defense, pharmaceutical, chemical, automotive and aerospace industries.</p>
+<p style="text-align: justify;">This is the context in which <a title="HPCNow!" href="http://www.hpcnow.com" target="_blank" rel="noopener noreferrer">HPCNow!</a> was founded by three partners with wide experience in the management of high performance computers and a thorough background in the use of scientific HPC codes. The company offers its expertise and knowledge with the aim of helping customers to get the most out of HPC technologies by providing effective and efficient supercomputer administration. <a title="HPCNow!" href="http://www.hpcnow.com">HPCNow!</a> also offers professional training and consultancy services for HPC scientists and engineers, so that they can obtain the highest level of performance and maximum security for their research.</p>

@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "HPC Knowledge Meeting '16"
+date:   2018-02-02 08:59:59
+categories: HPCKP-16
+tags: 
+image: 
+author: 
+---
+<table class="mceItemTable" style="border-width: 1px;" border="0" width="962" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><b>Sponsors Adamantium</b></td>
+<td style="text-align: center;"><b>Sponsors Platinum</b></td>
+<td style="text-align: center;"><b>Sponsors Gold</b></td>
+<td style="text-align: center;"><b>Sponsors Silver</b></td>
+</tr>
+<tr dir="" lang="" align="center" valign="middle" bgcolor="">
+<td>
+<p style="text-align: center;"><a href="http://www.fujitsu.com/global/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/fujitsu.png" alt="" width="100" /></a></p>
+</td>
+<td>
+<p style="text-align: center;"><a href="http://thinkparq.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/image03.png" alt="" width="120" /></a></p>
+</td>
+<td><a href="http://www.advania.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/advania.png" alt="" width="120" /></a></td>
+<td><a href="http://www.suse.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/suse_logo_web.png" alt="" width="100" /></a></td>
+</tr>
+<tr>
+<td colspan="1"><a href="http://www.intel.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/intel_rgb_250.png" alt="" width="100" /></a></td>
+<td colspan="1"><a href="http://www.xrqtc.com" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/logoxrqtcrodo.png" alt=" " width="100 " height="86 " /></a></td>
+<td colspan="1 "><a href="http://www.omega-peripherals.com/" target="_blank " rel="alternate"><img src="/images/sponsors/image02.png" alt=" " width="100 " /></a></td>
+<td colspan="1 "> </td>
+</tr>
+<tr>
+<td colspan="1 "><a href="http://www.hpcnow.com/index.php" target="_blank " rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/sponsors/logo_hpc1.lima-blanc-200.png" alt=" " width="130" /></a></td>
+<td colspan="1 "> </td>
+<td colspan="1 "><a href="http://clustersie.com/" target="_blank " rel="alternate"><img src="/images/sponsors/hpcsienov14.png" alt=" " width="100 " /></a></td>
+<td colspan="1 "> </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>We were pleased to host the fourth HPC Knowledge Meeting organized by HPCNow! and IQTC-UB. This was a meeting aimed to share expertise and strategies in High Performance Computing, High Performance Data Analysis &amp; Clustering. It was held at the University of Barcelona, from 3rd to 4th February, 2015 in conjunction with the <a href="index.php/training/beegfs-15" target="_blank" rel="noopener noreferrer">BeeGFS Training’15</a> and <a href="index.php/training/slurm15" target="_blank" rel="noopener noreferrer">Slurm Training’15</a>, organized by <a href="http://www.hpcnow.com" target="_blank" rel="noopener noreferrer">HPCNow!</a> &amp; <a href="http://www.iqtc.ub.edu/en/" target="_blank" rel="noopener noreferrer">IQTC-UB</a> and <a href="http://thinkparq.com" target="_blank" rel="noopener noreferrer">ThinkParQ</a>.</p>
+
+#### Call for Presentation & Tutorial Proposals
+<p>High Performance Computing &amp; Data Analytics experts are encouraged to submit proposals for Presentations and Tutorials to be given during the conference. Concurrent sessions are scheduled in 15-minute, 30-minute and 60-minute blocks.</p>
+<p>We would like to cover all areas of interest in HPC, HPDA and Clustering. For this reason, we encourage you to submit presentations or tutorials related with these fields.</p>
+<p><strong>Proposal Submission</strong></p>
+<p>All submissions should be made electronically through the <a href="https://easychair.org/conferences/?conf=hpckp16">Easychair website</a>.</p>
+<p>All proposals must be submitted as a single pdf file by 8th April, 2016, including:</p>
+<ol>
+<li>Contact information</li>
+<li>A 200-word (maximum) abstract</li>
+<li><strong>Only for tutorials</strong> : a detailed description of the tutorial content (maximum 2 pages) containing:</li>
+<ul>
+<li>Targeted audience</li>
+<li>Content level (split into: beginner, intermediate, advanced)</li>
+<li>Audience prerequisites</li>
+<li>Detailed outline (maximum 1 page)</li>
+</ul>
+</ol>
+<p>If you have any questions or comments, please contact with <a href="mailto:info@hpcnow.com">info@hpcnow.com</a></p>
+
+#### Important Deadlines
+
+<table class="mceItemTable" border="0">
+<tbody>
+<tr>
+<td>Abstract submission deadline for presentations (tutorial or contributed talk)</td>
+<td>8th Apr 2016</td>
+</tr>
+<tr>
+<td>Confirm accepted presentations</td>
+<td>10th Apr 2016</td>
+</tr>
+<tr>
+<td colspan="1">Online Registration deadline</td>
+<td colspan="1">18th Apr 2016</td>
+</tr>
+<tr>
+<td colspan="1">Presentations submission deadline (PDF or PPT)</td>
+<td colspan="1">18th Apr 2016</td>
+</tr>
+</tbody>
+</table>
+
+#### How to arrive
+
+<p><strong>By Plane</strong></p>
+<p>Barcelona - El Prat Airport is a major airline hub, the second busiest airport in Spain. It is located south-west of the city of Barcelona, between the city limits of El Prat de Llobregat, Viladecans and Sant Boi. Find out more on the <a href="http://www.aena-aeropuertos.es/csee/ContentServer/Aeropuerto-Barcelona/en/Page/1045569607459/" target="_blank" rel="noopener noreferrer">web</a>.</p>
+<p>El Prat airport is roughly a 20-minute drive from the Faculty of Chemistry. Taking a taxi would be the most comfortable option to reach the venue. But public transport is also a very convenient option to arrive and to move around the city thanks to the integrated fare system.</p>
+<p>To come by train from the airport (departs every 30 minutes), take Line 1 of the local train service (<a href="http://www.renfe.com/EN/viajeros/index.html" target="_blank" rel="noopener noreferrer">RENFE</a> Rodalies) to the mainline station “Barcelona Sants” (22 minutes), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Train </strong></p>
+<p>Go to "Barcelona Sants" mainline station (metro stop "Sants Estació"), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Metro</strong></p>
+<p>Take Line 3 in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Bus</strong></p>
+<p>Routes 7, 33, 60, 67, 68, 74 and 75 pass near the venue. Further information: <a href="http://www.tmb.net" target="_blank" rel="noopener noreferrer">TMB</a>.</p>
+<p><strong>By Tram</strong></p>
+<p>Routes T1, T2 and T3 pass through the campus area. The most suitable Tram stop is called "Palau Reial". Further information at <a href="http://www.trambcn.com/?idioma=ing" target="_blank" rel="noopener noreferrer">Tram website</a>.</p>
+
+#### Accomodation and location
+
+<p><strong>By Plane</strong></p>
+<p>Barcelona - El Prat Airport is a major airline hub, the second busiest airport in Spain. It is located south-west of the city of Barcelona, between the city limits of El Prat de Llobregat, Viladecans and Sant Boi. Find out more on the <a href="http://www.aena-aeropuertos.es/csee/ContentServer/Aeropuerto-Barcelona/en/Page/1045569607459/" target="_blank" rel="noopener noreferrer">web</a>.</p>
+<p>El Prat airport is roughly a 20-minute drive from the Faculty of Chemistry. Taking a taxi would be the most comfortable option to reach the venue. But public transport is also a very convenient option to arrive and to move around the city thanks to the integrated fare system.</p>
+<p>To come by train from the airport (departs every 30 minutes), take Line 1 of the local train service (<a href="http://www.renfe.com/EN/viajeros/index.html" target="_blank" rel="noopener noreferrer">RENFE</a> Rodalies) to the mainline station “Barcelona Sants” (22 minutes), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Train </strong></p>
+<p>Go to "Barcelona Sants" mainline station (metro stop "Sants Estació"), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Metro</strong></p>
+<p>Take Line 3 in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Bus</strong></p>
+<p>Routes 7, 33, 60, 67, 68, 74 and 75 pass near the venue. Further information: <a href="http://www.tmb.net" target="_blank" rel="noopener noreferrer">TMB</a>.</p>
+<p><strong>By Tram</strong></p>
+<p>Routes T1, T2 and T3 pass through the campus area. The most suitable Tram stop is called "Palau Reial". Further information at <a href="http://www.trambcn.com/?idioma=ing" target="_blank" rel="noopener noreferrer">Tram website</a>.</p>
+
+#### Registration
+<p>Registration fee includes electronic version of abstracts, coffee breaks and lunch.</p>
+<p>Number of participants of HPC Knowledge Meeting'16 is limited to 100. Acceptance will be made on a first come first serve basis.</p>
+<p>Listed prices don't include VAT (21% IVA).</p>
+
+#### Sponsorship Oportunities
+<p>We encourage to take part in sponsorship of the HPC Knowledge Meeting’16 at the level which best suits your organization needs.</p>
+<p>We provide pre-defined sponsorship opportunities packages to participate in presenting business or technical sessions, and join in other marketing activities.</p>

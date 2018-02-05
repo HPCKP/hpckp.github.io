@@ -1,0 +1,199 @@
+---
+layout: post
+title:  "HPC Knowledge Meeting '15"
+date:   2018-02-02 08:59:59
+categories: HPCKP-15
+tags: 
+image: 
+author: 
+---
+<table class="mceItemTable" style="border-width: 1px;" border="0" width="962" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><b>Sponsors Adamantium</b></td>
+<td style="text-align: center;"><b>Sponsors Platinum</b></td>
+<td style="text-align: center;"><b>Sponsors Gold</b></td>
+<td style="text-align: center;"><b>Sponsors Silver</b></td>
+</tr>
+<tr dir="" lang="" align="center" valign="middle" bgcolor="">
+<td>
+<p style="text-align: center;"><a href="http://www.fujitsu.com/global/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/fujitsu.png" alt="" width="100" /></a></p>
+</td>
+<td>
+<p style="text-align: center;"><a href="http://thinkparq.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/image03.png" alt="" width="120" /></a></p>
+</td>
+<td><a href="http://www.advania.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/advania.png" alt="" width="120" /></a></td>
+<td><a href="http://www.suse.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/suse_logo_web.png" alt="" width="100" /></a></td>
+</tr>
+<tr>
+<td colspan="1"><a href="http://www.intel.com/" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/intel_rgb_250.png" alt="" width="100" /></a></td>
+<td colspan="1"><a href="http://www.xrqtc.com" target="_blank" rel="alternate noopener noreferrer"><img src="/images/sponsors/logoxrqtcrodo.png" alt=" " width="100 " height="86 " /></a></td>
+<td colspan="1 "><a href="http://www.omega-peripherals.com/" target="_blank " rel="alternate"><img src="/images/sponsors/image02.png" alt=" " width="100 " /></a></td>
+<td colspan="1 "> </td>
+</tr>
+<tr>
+<td colspan="1 "><a href="http://www.hpcnow.com/index.php" target="_blank " rel="alternate"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/sponsors/logo_hpc1.lima-blanc-200.png" alt=" " width="130" /></a></td>
+<td colspan="1 "> </td>
+<td colspan="1 "><a href="http://clustersie.com/" target="_blank " rel="alternate"><img src="/images/sponsors/hpcsienov14.png" alt=" " width="100 " /></a></td>
+<td colspan="1 "> </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>We were pleased to host the fourth HPC Knowledge Meeting organized by HPCNow! and IQTC-UB. This was a meeting aimed to share expertise and strategies in High Performance Computing, High Performance Data Analysis &amp; Clustering. It was held at the University of Barcelona, from 3rd to 4th February, 2015 in conjunction with the <a href="index.php/training/beegfs-15" target="_blank" rel="noopener noreferrer">BeeGFS Training’15</a> and <a href="index.php/training/slurm15" target="_blank" rel="noopener noreferrer">Slurm Training’15</a>, organized by <a href="http://www.hpcnow.com" target="_blank" rel="noopener noreferrer">HPCNow!</a> &amp; <a href="http://www.iqtc.ub.edu/en/" target="_blank" rel="noopener noreferrer">IQTC-UB</a> and <a href="http://thinkparq.com" target="_blank" rel="noopener noreferrer">ThinkParQ</a>.</p>
+
+#### Call for Presentation & Tutorial Proposals
+<p>HPC &amp; clustering experts are encouraged to submit proposals for Presentations and Tutorials to be given during the conference. Concurrent sessions are scheduled in 15-minute, 30-minute and 60-minute blocks.</p>
+<p>We would like to cover all areas of interest in HPC and clustering. For this reason, we encourage you to submit presentations or tutorials related with these fields.</p>
+<p><strong>Proposal Submission</strong></p>
+<p>All proposals must be submitted as a single pdf file via e-mail (<a href="mailto:info@hpcnow.com">info@hpcnow.com</a>) by 18th Dec, 2014, including:</p>
+<ol>
+<li>Contact information</li>
+<li>A 200-word (maximum) abstract</li>
+<li><strong>Only for tutorials</strong> : a detailed description of the tutorial content (maximum 2 pages) containing:</li>
+<ul>
+<li>Targeted audience</li>
+<li>Content level (split into: beginner, intermediate, advanced)</li>
+<li>Audience prerequisites</li>
+<li>Detailed outline (maximum 1 page)</li>
+</ul>
+</ol>
+<p>If you have any questions or comments, please contact with <a href="mailto:info@hpcnow.com">info@hpcnow.com</a></p>
+
+#### Important Deadlines
+
+<table class="mceItemTable" border="0">
+<tbody>
+<tr>
+<td>Abstract submission deadline for presentations (tutorial or contributed talk)</td>
+<td>07th Jan 2015</td>
+</tr>
+<tr>
+<td>Confirm accepted presentations</td>
+<td>08th Jan 2015</td>
+</tr>
+<tr>
+<td colspan="1">Early registration deadline for reduced fee</td>
+<td colspan="1">10th Jan 2015</td>
+</tr>
+<tr>
+<td colspan="1">Registration deadline extended!</td>
+<td colspan="1">28th Jan 2015</td>
+</tr>
+<tr>
+<td colspan="1">Presentations submission deadline (PDF or PPT)</td>
+<td colspan="1">27th Jan 2015</td>
+</tr>
+</tbody>
+</table>
+
+#### How to arrive
+
+<p><strong>By Plane</strong></p>
+<p>Barcelona - El Prat Airport is a major airline hub, the second busiest airport in Spain. It is located south-west of the city of Barcelona, between the city limits of El Prat de Llobregat, Viladecans and Sant Boi. Find out more on the <a href="http://www.aena-aeropuertos.es/csee/ContentServer/Aeropuerto-Barcelona/en/Page/1045569607459/" target="_blank" rel="noopener noreferrer">web</a>.</p>
+<p>El Prat airport is roughly a 20-minute drive from the Faculty of Chemistry. Taking a taxi would be the most comfortable option to reach the venue. But public transport is also a very convenient option to arrive and to move around the city thanks to the integrated fare system.</p>
+<p>To come by train from the airport (departs every 30 minutes), take Line 1 of the local train service (<a href="http://www.renfe.com/EN/viajeros/index.html" target="_blank" rel="noopener noreferrer">RENFE</a> Rodalies) to the mainline station “Barcelona Sants” (22 minutes), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Train </strong></p>
+<p>Go to "Barcelona Sants" mainline station (metro stop "Sants Estació"), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Metro</strong></p>
+<p>Take Line 3 in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Bus</strong></p>
+<p>Routes 7, 33, 60, 67, 68, 74 and 75 pass near the venue. Further information: <a href="http://www.tmb.net" target="_blank" rel="noopener noreferrer">TMB</a>.</p>
+<p><strong>By Tram</strong></p>
+<p>Routes T1, T2 and T3 pass through the campus area. The most suitable Tram stop is called "Palau Reial". Further information at <a href="http://www.trambcn.com/?idioma=ing" target="_blank" rel="noopener noreferrer">Tram website</a>.</p>
+
+#### Accomodation and location
+
+<p>The meeting will be hosted by the Faculty of Chemistry (Aula Magna - Enric Cassassas room, ground floor), University of Barcelona (Av. Diagonal 645, 08028 Barcelona).</p>
+<p><br /><small><a style="color: #0000ff; text-align: left;" href="http://maps.google.es/maps?source=embed&amp;f=q&amp;hl=es&amp;geocode=&amp;q=FACULTAT+DE+QUIMICA,+Barcelona&amp;aq=0&amp;sll=41.385374,2.118988&amp;sspn=0.008484,0.021136&amp;ie=UTF8&amp;hq=FACULTAT+DE+QUIMICA,+Barcelona&amp;hnear=Facultad+de+Qu%C3%ADmica,+C%2F+MART%C3%8D+I+FRANQU%C3%88S,+1-11,+08028+Barcelona&amp;ll=41.385245,2.118816&amp;spn=0.022539,0.036478" target="_blank" rel="alternate noopener noreferrer">See Map</a></small></p>
+<p><strong>Accommodation</strong></p>
+<p>No special accommodation has been agreed by the workshop organization, but there are several hotels and student residences available close to the venue.</p>
+<p>You can use Hotels Combined as a search tool to help users find the best priced accommodation option. In addition to the obvious advantages of the comparison system, the Conference Support Initiative offers rebates.</p>
+<p>Please check the following links:</p>
+<ul>
+<li><a href="http://www.hotelscombined.com/Conference_Support" target="_blank" rel="noopener noreferrer">http://www.hotelscombined.com/Conference_Support</a> - Support Program details.</li>
+<li><a href="http://www.hotelscombined.com/City/Barcelona.htm" target="_blank" rel="noopener noreferrer">http://www.hotelscombined.com/City/Barcelona.htm</a> - Basic list of hotels in Barcelona</li>
+</ul>
+
+#### Registration
+
+<p>Registration fee includes electronic version of abstracts, coffee breaks and lunch.</p>
+<p>Number of participants of HPC Knowledge Meeting'15 is limited to 250 but Slurm'15 and BeeGFS'15 are limited to 50. Acceptance will be made on a first come first serve basis.</p>
+<table class="mceItemTable" style="border-color: #dde2e3; border-width: 0px;" border="0" frame="border" rules="all">
+<tbody>
+<tr>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" colspan="1" rowspan="2" scope="" align="center" valign="middle"> </td>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" colspan="2" rowspan="1" scope="" align="center" valign="middle">Speaker</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" colspan="2" rowspan="1" scope="" align="center" valign="middle">Academic</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" colspan="2" rowspan="1" scope="" align="center" valign="middle">Industry</td>
+</tr>
+<tr>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">early</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">late</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">early</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">late</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">early</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">late</td>
+</tr>
+<tr>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="left" valign="middle">HPCKP'15</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">50€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">50€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">100€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">150€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">200€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">300€</td>
+</tr>
+<tr>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="left" valign="middle">Slurm'15</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">100€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">100€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">200€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">300€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">400€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">600€</td>
+</tr>
+<tr>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="left" valign="middle">BeeGFS'15</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle"> </td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle"> </td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">100€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">150€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">200€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">300€</td>
+</tr>
+<tr>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="left" valign="middle">HPCKP'15 + Slurm'15</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">150€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">150€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">200€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">300€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">400€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">600€</td>
+</tr>
+<tr>
+<td id="" dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="left" valign="middle">HPCKP'15 + BeeGFS'15</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle"> </td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle"> </td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">150€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">225€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">300€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">450€</td>
+</tr>
+<tr>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">HPCKP'15+Slurm'15+BeeGFS'15</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle"> </td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle"> </td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">250€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">375€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">500€</td>
+<td dir="" lang="" style="border: 1px solid #3c9be6;" scope="" align="center" valign="middle">750€</td>
+</tr>
+</tbody>
+</table>
+<p>Listed prices don't include VAT (21% IVA).</p>
+<p> </p>
+
+#### Sponsorship Oportunities
+<p>We encourage to take part in sponsorship of the HPC Knowledge Meeting’15 at the level which best suits your organization needs.We provide pre-defined sponsorship opportunities packages to participate in presenting business or technical sessions, and join in other marketing activities.</p>

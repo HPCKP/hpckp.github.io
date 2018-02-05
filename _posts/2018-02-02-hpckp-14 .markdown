@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "HPC Knowledge Meeting '14"
+date:   2018-02-02 08:59:59
+categories: HPCKP-14
+tags: 
+image: 
+author: 
+---
+<table class="mceItemTable" style="border-width: 1px; height: 495px;" border="0" width="962" align="left">
+<tbody>
+<tr>
+<td style="text-align: center;">
+<h2>Sponsors Adamantium</h2>
+</td>
+<td style="text-align: center;">
+<h2>Sponsors Platinum</h2>
+</td>
+<td style="text-align: center;">
+<h2>Sponsors Gold</h2>
+</td>
+<td style="text-align: center;">
+<h2>Sponsors Silver</h2>
+</td>
+</tr>
+<tr id="" dir="" lang="" align="center" valign="middle" bgcolor="">
+<td><a href="http://www.fujitsu.com" target="_blank" rel="noopener noreferrer"><img src="/images/sponsors/fujitsu.png" alt="" width="200" height="103" /></a></td>
+<td><a href="http://www.xrqtc.com/" target="_blank" rel="noopener noreferrer"><img src="/images/sponsors/logoxrqtcrodo.png" alt="" width="200" height="86" /></a></td>
+<td><a href="http://www.clustersie.com/"><img src="/images/sponsors/hpcsienov14.png" alt="" width="200" height="67" /></a></td>
+<td style="text-align: center;"><a href="https://www.suse.com/" target="_blank" rel="noopener noreferrer"><img src="/images/sponsors/suse_logo_web.png" alt="" width="190" height="88" /></a></td>
+</tr>
+<tr>
+<td colspan="1">
+<p style="text-align: center;"><a href="http://www.hpcnow.com" target="_blank" rel="noopener noreferrer"><img src="/images/sponsors/logo_hpc1.lima-blanc-200.png" alt="" width="200" height="78" /></a></p>
+</td>
+<td colspan="1"> </td>
+<td colspan="1"> </td>
+<td colspan="1"><a href="http://rdlab.lsi.upc.edu/" target="_blank" rel="noopener noreferrer"><img src="/images/sponsors/logo-rdlab.png" alt="" width="200" height="94" /></a></td>
+</tr>
+<tr>
+<td colspan="1"> </td>
+<td colspan="1"> </td>
+<td colspan="1"> </td>
+<td colspan="1"><a href="http://www.upf.edu/en/" target="_blank" rel="noopener noreferrer"><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/sponsors/upf_logo.png" alt="" width="200" height="67" /></a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+<p>We are pleased to announce the third "<a href="index.php/anual-meeting">HPC Knowledge Meeting</a>". This is a meeting aimed to share expertise and strategies in High Performance Computing &amp; Clustering.</p>
+<p>This meeting will be held at the University of Barcelona, from 13th to 14th January, 2014. It is organized by <a title="HPCNow!" href="http://www.hpcnow.com/" target="_blank" rel="noopener noreferrer">HPCNow!</a> and <a href="http://www.iqtc.ub.es/en/" target="_blank" rel="noopener noreferrer">IQTC-UB</a>.</p>
+<p>Hope to see you all there!</p>
+
+#### Call for Presentation & Tutorial Proposals
+<p>HPC &amp; clustering experts are encouraged to submit proposals for Presentations and Tutorials to be given during the conference. Concurrent sessions are scheduled in 15- minute, 30-minute and 60-minute blocks.</p>
+<p>We would like to cover all areas of interest of HPC and clustering. For this reason, we encourage you to submit presentations or tutorials related with these fields.</p>
+<p><strong>Proposal Submission</strong></p>
+<p>all proposals must be submitted as a single pdf file via e-mail (<a href="mailto:info@hpcnow.com">info@hpcnow.com</a>) by 10th Dec, 2013, including:</p>
+<ol>
+<li>Contact information</li>
+<li>A 200-word (maximum) abstract</li>
+<li><strong>Only for tutorials</strong> : a detailed description of the tutorial content (maximum 2 pages) containing:</li>
+<ul>
+<li>Targeted audience</li>
+<li>Content level (split into: beginner, intermediate, advanced)</li>
+<li>Audience prerequisites</li>
+<li>Detailed outline (maximum 1 page)</li>
+</ul>
+</ol>
+<p>If you have any questions or comments, please contact with <a href="mailto:info@hpcnow.com">info@hpcnow.com</a></p>
+
+#### Important Deadlines
+
+<table class="mceItemTable" border="0">
+<tbody>
+<tr>
+<td>Abstract submission deadline for presentations (tutorial or contributed talk)</td>
+<td>10th Dec 2013</td>
+</tr>
+<tr>
+<td>Comfirm accepted presentations</td>
+<td>12th Dec 2013</td>
+</tr>
+<tr>
+<td colspan="1">Early registration deadline for reduced fee</td>
+<td colspan="1">20th Dec 2013</td>
+</tr>
+<tr>
+<td colspan="1">Registration deadline</td>
+<td colspan="1">10th Jan 2014</td>
+</tr>
+<tr>
+<td colspan="1">Presentations submission deadline (PDF or PPT)</td>
+<td colspan="1">10th Jan 2014</td>
+</tr>
+</tbody>
+</table>
+
+#### How to arrive
+
+<p><b>By Plane</b></p>
+<p>El Prat airport is situated approximately 15 km from the Faculty of Chemistry. Taking a taxi would be the best option to reach the venue. The journey takes about 20 minutes. Approximate price: 20 € . To come by train from the airport, take Line 1 of the local train service (<a href="http://www.renfe.com/EN/viajeros/index.html" target="_blank" rel="noopener noreferrer">RENFE</a> Rodalies) as far as the mainline station “Barcelona Sants”, which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><b>By Train </b></p>
+<p>Go to "Barcelona Sants" mainline station (metro stop "Sants Estació"), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><b>By Metro</b></p>
+<p>Take Line 3 in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><b>By Bus</b></p>
+<p>Routes 7, 33, 60, 67, 68, 74 and 75 pass near the venue. Further information: <a href="http://www.tmb.net/" target="_blank" rel="noopener noreferrer">TMB</a>.</p>
+<p><b>By Tram</b></p>
+<p>Routes T1, T2 and T3 pass through the campus area. Further information at <a href="http://www.trambcn.com/?idioma=ing" target="_blank" rel="noopener noreferrer">Tram website</a>.</p>
+
+#### Accomodation and location
+
+<p><strong>By Plane</strong></p>
+<p>Barcelona - El Prat Airport is a major airline hub, the second busiest airport in Spain. It is located south-west of the city of Barcelona, between the city limits of El Prat de Llobregat, Viladecans and Sant Boi. Find out more on the <a href="http://www.aena-aeropuertos.es/csee/ContentServer/Aeropuerto-Barcelona/en/Page/1045569607459/" target="_blank" rel="noopener noreferrer">web</a>.</p>
+<p>El Prat airport is roughly a 20-minute drive from the Faculty of Chemistry. Taking a taxi would be the most comfortable option to reach the venue. But public transport is also a very convenient option to arrive and to move around the city thanks to the integrated fare system.</p>
+<p>To come by train from the airport (departs every 30 minutes), take Line 1 of the local train service (<a href="http://www.renfe.com/EN/viajeros/index.html" target="_blank" rel="noopener noreferrer">RENFE</a> Rodalies) to the mainline station “Barcelona Sants” (22 minutes), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Train </strong></p>
+<p>Go to "Barcelona Sants" mainline station (metro stop "Sants Estació"), which has connections with the metro system (Line 3). Take the metro in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Metro</strong></p>
+<p>Take Line 3 in direction "Zona Universitària" and get off at the station called "Palau Reial" (see map).</p>
+<p><strong>By Bus</strong></p>
+<p>Routes 7, 33, 60, 67, 68, 74 and 75 pass near the venue. Further information: <a href="http://www.tmb.net" target="_blank" rel="noopener noreferrer">TMB</a>.</p>
+<p><strong>By Tram</strong></p>
+<p>Routes T1, T2 and T3 pass through the campus area. The most suitable Tram stop is called "Palau Reial". Further information at <a href="http://www.trambcn.com/?idioma=ing" target="_blank" rel="noopener noreferrer">Tram website</a>.</p>
+
+#### Registration
+
+<p>Registration fee includes electronic version of abstracts, coffee breaks and lunch.</p>
+<p>Number of participants is limited to 250, acceptance will be made on a first come first serve basis.</p>
+<table class="mceItemTable" border="0">
+<tbody>
+<tr>
+<td> </td>
+<td>Early Registration</td>
+<td>Late Registration</td>
+</tr>
+<tr>
+<td>Collaborator/speaker</td>
+<td>60€</td>
+<td>60€</td>
+</tr>
+<tr>
+<td>Academic</td>
+<td>100€</td>
+<td>110€</td>
+</tr>
+<tr>
+<td>Industry</td>
+<td>200€</td>
+<td>220€</td>
+</tr>
+</tbody>
+</table>
+
+#### Sponsorship Oportunities
+<p>We encourage to take part in sponsorship of the HPC Knowledge Meeting’14 at the level which best suits your organization needs.</p><p>We provide pre-defined sponsorship opportunities packages to participate in presenting business or technical sessions, and join in other marketing activities.</p>
